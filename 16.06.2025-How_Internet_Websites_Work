@@ -1,0 +1,10 @@
+How Does the Internet and How Do Websites Actually Work:
+The Internet consists of a wire that connects client computers with server computers.
+Special server computers called Domain Name Service Servers (DNS), which acts as a big old Yellow Pages phonebook and can look up the IP address of any website you want to access. When you find out that IP address, you can directly hit up the server computer for the website that you want to view and they'll send you all the files and data for your browser to be able to render it on screen.
+
+The data you receive from that server usually consists of three types of files HTML, CSS and JavaScript.
+
+Code Files
+HTML code file is responsible for the content in your website. The HTML file contains the content of your website, like the text content or the images or buttons or links.
+CSS files are responsible for styling your website. The CSS file determines how your website will look (what color will the background of the page be, or if the buttons have rounded corners).
+JavaScript code allows your website to actually do things, or have functionality.
