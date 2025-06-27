@@ -1,0 +1,9 @@
+Paragraph Elements:
+
+<p>Hello, I'm Klaudia.</p> -> Hello, I'm Klaudia.     Hello, I'm Klaudia.
+
+<p>Hello, I'm Klaudia</p>
+<p>Hello, I'm Klaudia</p>  -> Hello, I'm Klaudia
+
+
+                             Hello, I'm Klaudia
