@@ -1,0 +1,27 @@
+The List Elements + List Items
+
+Unordered List
+<ul>
+<li>Dog</li>
+<li>Cat</li>
+<li>Hamster</li>
+</ul>
+
+bullet points
+
+Ordered List + List Items
+<ol>
+<li>Dog</li>
+<li>Cat</li>
+<li>Hamster</li>
+</ol>
+
+numeric list
+
+<li></li>
+
+<li>Dog</li> 
+
+<li>
+Dog
+</li>
