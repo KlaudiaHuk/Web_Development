@@ -1,0 +1,9 @@
+Image Elements
+
+<img src="url"/>
+
+<img src="https://picsum.photos/200" />
+
+The Alt Attribute
+
+<img src="https://picsum.photos/200" alt="forest at sunset"/>
