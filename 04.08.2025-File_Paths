@@ -1,0 +1,15 @@
+File Paths
+
+Absolute vs. Relative
+
+Absolute File Path
+C:/Project/Images/cat.png
+
+Relative File Path
+Images/cat.png
+
+Special Characters
+../essay.docx
+dwo . means up a level
+./dog.png
+single . means current directory 
