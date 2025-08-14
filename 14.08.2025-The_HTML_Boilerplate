@@ -1,0 +1,16 @@
+The HTML Boilerplate
+
+<!DOCTYPE html> -it tells browser that is written in html5
+<html lang="en"> -root of the document (lang = language)
+<head> -important elements (for us not for the user, no content)
+<meta charset="UTF-8"> -character setting, it makes sure the characters display correctly
+<title>My Website</title> -title that displays in the tab bar
+</head> -important elements (for us not for the user, no content)
+
+<body> -inside it goes the content of the website
+<h1>Hello World!</h1>
+</body> -inside it goes the content of the website
+</html> -root of the document
+
+Shortcut for it
+! (but the file has to be save as .html)
